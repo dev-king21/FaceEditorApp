@@ -125,7 +125,7 @@ UIImagePickerControllerDelegate,UINavigationControllerDelegate, UIGestureRecogni
               picker.didFinishPicking { [unowned picker] items, _ in
                   let img:UIImage = items.singlePhoto!.image
                   picker.dismiss(animated: true, completion: nil)
-                self.presentPage("MainViewController", MainViewController.self, param: img)
+                self.presentPage("ToolbarViewController", ToolbarViewController.self, param: img)
                 print("oik")
               }
               present(picker, animated: true, completion: nil)
