@@ -1,0 +1,40 @@
+PODS:
+  - LGButton (1.1.6)
+  - PryntTrimmerView (4.0.2)
+  - SteviaLayout (4.6.1)
+  - SwiftIconFont (6.1.1)
+  - Vivid (0.9)
+  - YPImagePicker (4.1.2):
+    - PryntTrimmerView (~> 4.0.0)
+    - SteviaLayout (~> 4.6.0)
+  - YUCIHighPassSkinSmoothing (1.4):
+    - Vivid
+
+DEPENDENCIES:
+  - LGButton
+  - SwiftIconFont
+  - YPImagePicker (= 4.1.2)
+  - YUCIHighPassSkinSmoothing
+
+SPEC REPOS:
+  trunk:
+    - LGButton
+    - PryntTrimmerView
+    - SteviaLayout
+    - SwiftIconFont
+    - Vivid
+    - YPImagePicker
+    - YUCIHighPassSkinSmoothing
+
+SPEC CHECKSUMS:
+  LGButton: 9f0a7f9d3030e3f504108342f6b66d64a429371b
+  PryntTrimmerView: 6a43cc90df5d99addeabd33d4ba09b1365322130
+  SteviaLayout: 0c83442390c8a369c21f975ffbd812d11532645b
+  SwiftIconFont: 0a772c5ac65a40c9b0675efa37b4928158bd8e43
+  Vivid: 0fde7409beac71224deb151dd78f98a5bb860497
+  YPImagePicker: bdaa46782668e260fdd9709f19043a9f469fd2ad
+  YUCIHighPassSkinSmoothing: 8418fd1bf605ec22b647c57745b863b352f72097
+
+PODFILE CHECKSUM: 64462222fae3504be45120d3e570e4189b863c19
+
+COCOAPODS: 1.9.3
